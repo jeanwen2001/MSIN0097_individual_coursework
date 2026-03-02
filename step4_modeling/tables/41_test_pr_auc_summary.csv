@@ -1,0 +1,4 @@
+model,test_pr_auc
+Random Forest,0.706765772117707
+XGBoost,0.6985365895414041
+Logistic Regression,0.6202267764197911
