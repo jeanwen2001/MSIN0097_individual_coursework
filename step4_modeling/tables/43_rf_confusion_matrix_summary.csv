@@ -1,0 +1,2 @@
+model,threshold,f1_at_threshold,true_positive,false_negative,false_positive,true_negative
+Random Forest,0.4,0.6657894736837104,253,129,125,1959
